@@ -62,7 +62,7 @@ To run this web application locally, follow these steps:
 
 ## Demo
 
-For a live demo of this web application, visit [Demo Link](https://zeesblog.onrender.com).
+For a live demo of this web application, visit [Demo Link](https://zeesblog.com.ng).
 
 
 ## License
